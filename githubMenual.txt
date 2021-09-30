@@ -1,0 +1,33 @@
+github 사용법
+
+commit --> save랑 same의미
+
+커밋을 하려면 저장을 원하는 파일들을 묶어서 명령을 수행하면 됨
+-> 언제든지 다시 커밋한 때로 돌아갈 수 있음.
+
+add --> stage에 올린다
+
+commit하기 전에 file들을 묶어서 올려야 하는데,, 이 작업을 add라고 함
+(stage에 파일을 올림)
+
+push --> github에 업로드
+
+commit을 하면 현재 작업 내용의 savedata가 my computer에 저장됨
+이걸 이제 github에 업로드를 해야 온라인에서도 보는거니까 
+내컴에서 작업내용이 날라가도 다시 github에서 복구 가능함
+이 짓을 push라고 함.
+
+clone,commit, add, push일단 이정도
+
+clone은 처음에 한번만 해주면 됨 -> github을 내 컴에 복사해옴
+add는 내컴에 작업한 파일들 스테이지에 추가
+commit은 스테이지에 올라온 파일들을 세이브
+push 커밋들을 원격저장소(github)에 업로드
+
+commit message는 꼼꼼하게 명확하게 한줄 비우고 자세하게 적어주면 됨
+
+마지막 저장장소로 돌아가기를 해보자.
+
+
+
+
